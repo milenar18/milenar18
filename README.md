@@ -1,64 +1,60 @@
-# Olá! 👋 Sou Milena Nascimento
+# Olá, sou Milena Nascimento 👋
 
-### 🎯 Estudante de DevOps | Infraestrutura | Cloud Computing
+**Estudante com foco em DevOps, infraestrutura e computação em nuvem.**
 
-Estou desenvolvendo minhas habilidades em tecnologia por meio de projetos práticos, com foco em infraestrutura, computação em nuvem, segurança e automação.
+Desenvolvo meus conhecimentos por meio de projetos práticos que conectam aplicações web, serviços AWS, segurança e automação. Meu objetivo é evoluir na construção e operação de soluções confiáveis, com atenção à disponibilidade e à organização da infraestrutura.
 
-Meu objetivo é aprender a construir e manter soluções confiáveis, compreendendo como aplicações, serviços de nuvem e ferramentas de integração trabalham juntos.
+## 🎓 Certificação
+
+**AWS Certified Cloud Practitioner**
 
 ## 🚀 Projetos em destaque
 
-### ☁️ Escola Tech — Aplicação de matrículas na AWS
+### Escola Tech | Aplicação de matrículas na AWS
 
-Projeto prático de hospedagem de um site com formulário de matrículas, distribuição de conteúdo e proteção web.
+Projeto prático de uma plataforma de cursos com formulário de matrículas, distribuição de conteúdo e proteção da aplicação.
 
-**Tecnologias e serviços utilizados:**
-- **Amazon S3:** hospedagem dos arquivos do site.
-- **Amazon CloudFront:** distribuição de conteúdo.
-- **AWS WAF:** configuração de regras de proteção para a aplicação.
-- **PHP:** endpoint para receber os dados do formulário.
-- **HTTP/JSON:** testes de requisições para validar o envio de dados.
+- **Amazon S3 e CloudFront:** hospedagem dos arquivos do frontend e distribuição de conteúdo.
+- **AWS WAF:** configuração de regras de proteção web, incluindo limitação de requisições.
+- **PHP:** API para receber os dados do formulário de matrículas.
+- **HTTP e JSON:** testes de requisições para validar o envio dos dados.
 
-🔗 **[Acessar o site da Escola Tech](https://d3j39qmm6bjrh4.cloudfront.net/)**
+O projeto conecta meus estudos de infraestrutura em nuvem à integração entre frontend, backend e segurança.
 
-### 🎁 Berit — Vitrine digital de brindes e presentes
+[Conheça a Escola Tech](https://d3j39qmm6bjrh4.cloudfront.net/)
 
-Projeto de uma vitrine digital para apresentar produtos, com catálogo administrável, autenticação e integração com banco de dados.
+### Berit | Vitrine digital de brindes e presentes
 
-**Funcionalidades e tecnologias:**
-- **HTML, CSS e JavaScript:** estrutura e interface da aplicação.
+Projeto de uma vitrine digital com catálogo administrável, autenticação, imagens e carrinho integrados ao Supabase.
+
+- **HTML, CSS e JavaScript:** estrutura, apresentação e interação da aplicação.
 - **GitHub Pages:** publicação da vitrine estática.
-- **Supabase:** autenticação e armazenamento dos dados.
-- **SQL e migrações:** configuração da estrutura do banco de dados.
+- **Supabase:** autenticação e persistência de dados.
+- **SQL e migrações:** organização da estrutura do banco de dados.
 - **Painel administrativo:** gerenciamento de categorias, produtos e imagens.
-- **Permissões de acesso:** separação entre clientes e funções administrativas.
+- **Controle de acesso:** separação entre clientes e administradores.
 
-🔗 **[Acessar o repositório Berit](https://github.com/milenar18/Berit)**
+O Berit amplia minha prática com desenvolvimento web, publicação de aplicações e integração com serviços de dados.
 
-## 🧰 Ferramentas e tecnologias
+[Explore o repositório Berit](https://github.com/milenar18/Berit)
 
-- **Cloud:** Amazon S3, CloudFront e AWS WAF.
-- **Desenvolvimento web:** HTML, CSS, JavaScript e PHP no contexto dos projetos.
-- **Banco de dados e autenticação:** Supabase e SQL.
-- **Automação:** Activepieces.
-- **Formulários e organização de dados:** Tally e Airtable.
+## 🧰 Conhecimentos em prática
 
-## 📚 Atualmente estudando
+| Área | Tecnologias e ferramentas |
+| --- | --- |
+| Nuvem e proteção web | Amazon S3, CloudFront e AWS WAF |
+| Desenvolvimento web | HTML, CSS, JavaScript e PHP |
+| Dados e autenticação | Supabase e SQL |
+| Versionamento e publicação | GitHub e GitHub Pages |
+
+## 📚 Estudos em andamento
 
 - Fundamentos de DevOps e infraestrutura.
-- Computação em nuvem e segurança de aplicações.
-- Automação de processos e integração entre ferramentas.
+- Arquitetura, disponibilidade e segurança de aplicações em nuvem.
+- Automação de processos com **Activepieces**.
+- Integração de formulários e dados com **Tally e Airtable**.
 - Boas práticas de versionamento e documentação.
-- Arquitetura e disponibilidade de aplicações.
 
-## 🎯 Meus objetivos
+## 🤝 Vamos nos conectar
 
-- Desenvolver projetos práticos na área de DevOps e Cloud.
-- Aprimorar meus conhecimentos em infraestrutura e serviços AWS.
-- Explorar automações para integrar ferramentas e simplificar processos.
-- Evoluir continuamente em desenvolvimento, segurança e operações.
-
-## 🤝 Conecte-se comigo
-
-- **GitHub:** [@milenar18](https://github.com/milenar18)
-- **LinkedIn:** [Milena Nascimento](https://www.linkedin.com/in/-milena-nascimento/)
+[LinkedIn](https://www.linkedin.com/in/-milena-nascimento/) · [GitHub](https://github.com/milenar18)
